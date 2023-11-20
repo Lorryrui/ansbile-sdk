@@ -1,4 +1,4 @@
-# awsome-simple  
+# ansbile-simple  
 A simple SDK to use Ansible API.
 
 # usage  

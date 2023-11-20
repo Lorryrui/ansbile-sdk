@@ -1,12 +1,12 @@
-# ansbile-simple  
+# ansible_simple  
 A simple SDK to use Ansible API.
 
 # usage  
-> pip install ansbile-simple  
+> pip install ansible_simple  
 
-## ansbile module  
+## ansible module  
 ```python
-from ansbile-simple.core.api import AnsibleApi
+from ansible_simple.core.api import AnsibleApi
 
 a = AnsibleApi(remote_user="root", hosts=["192.168.13.109", "192.168.13.56"], remote_password={"conn_pass": "password"})
 # a.run(module='shell', args='hostname')

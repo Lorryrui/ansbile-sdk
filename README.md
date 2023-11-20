@@ -6,7 +6,7 @@ A simple SDK to use Ansible API.
 
 ## ansible module  
 ```python
-from ansible_simple.core.api import AnsibleApi
+from ansible_simple.api import AnsibleApi
 
 a = AnsibleApi(remote_user="root", hosts=["192.168.13.109", "192.168.13.56"], remote_password={"conn_pass": "password"})
 # a.run(module='shell', args='hostname')

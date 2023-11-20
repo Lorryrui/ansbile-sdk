@@ -1,4 +1,4 @@
-# awsome-validity  
+# awsome-simple  
 A simple SDK to use Ansible API.
 
 # usage  

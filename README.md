@@ -2,7 +2,7 @@
 A simple SDK to use Ansible API.
 
 # usage  
-> pip install ansible_simple  
+> pip install ansible-simple  
 
 ## ansible module  
 ```python
